@@ -1,6 +1,6 @@
 #### FlappyBird
 
-<img src="https://imgur.com/wpd1SU2" width="200" />
+<img src="https://i.imgur.com/wpd1SU2.png" width="200" />
 <br /><br />
-<img src="https://imgur.com/jB9j3wY" width="200" />
+<img src="https://i.imgur.com/jB9j3wY.png" width="200" />
 <br /><br />
